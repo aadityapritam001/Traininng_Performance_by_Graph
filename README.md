@@ -1,4 +1,4 @@
-# ML_Model_Traininng_Performance_by_Graph
+# ML_Model_Traininng_Performance_realtime_visualization
 Visualization of Model training performance and Analysis using Graph 
 
 # The Below figure shows the "loss"  vs  "numbers of iterations" 
